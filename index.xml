@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="display.css"?> 
+<set> 
+    <heading>Set List</heading> 
+    <song> 
+    	<title>I Wish</title> 
+    	<artist>Skee Lo</artist>
+        <genre>Hip-Hop/Rap</genre>
+        <year>1995</year>
+    </song> 
+    <song> 
+    	<title>Coming Home</title>
+        <artist>Leon Bridges</artist> 
+        <genre>R&amp;B/Soul</genre>
+        <year>2015</year>
+    </song> 
+    <song> 
+    	<title>Electric Feel</title>
+        <artist>MGMT</artist> 
+        <genre>Dance/Electronic</genre>
+        <year>2007</year>
+    </song> 
+    <song> 
+    	<title>Put Me Thru</title>
+        <artist>Anderson .Paak</artist> 
+        <genre>R&amp;B/Soul</genre>
+        <year>2016</year>
+    </song> 
+    <song> 
+    	<title>September</title>
+        <artist>Earth, Wind &amp; Fire</artist> 
+        <genre>Disco</genre>
+        <year>1978</year>
+    </song> 
+    <song> 
+    	<title>Blu</title>
+        <artist>Elujay</artist> 
+        <genre>R&amp;B/Soul</genre>
+        <year>2018</year>
+    </song> 
+    <song> 
+    	<title>Wait a Minute!</title>
+        <artist>WILLOW</artist> 
+        <genre>Alternative/Indie</genre>
+        <year>2015</year>
+    </song> 
+    <song> 
+    	<title>Toothache</title>
+        <artist>Topaz Jones</artist> 
+        <genre>Hip-Hop/Rap</genre>
+        <year>2018</year>
+    </song> 
+    <song> 
+    	<title>Alright</title>
+        <artist>Kris Kross</artist> 
+        <genre>Hip-Hop/Rap</genre>
+        <year>1993</year>
+    </song> 
+    <song> 
+    	<title>Treasure</title>
+        <artist>Bruno Mars</artist> 
+        <genre>Disco</genre>
+        <year>2012</year>
+    </song> 
+</set> 

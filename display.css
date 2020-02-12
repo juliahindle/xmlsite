@@ -1,0 +1,38 @@
+set 
+{ 
+    color: #EF6069; 
+    background-color: #EDC4D0; 
+    width: 100%; 
+}
+
+heading 
+{ 
+	font-family: Georgia, serif;
+	font-weight: bold; 
+    color: #EDC4D0; 
+    font-size: 70px; 
+    background-color: #EF6069; 
+} 
+
+heading, title, artist, genre, year
+{
+    text-align: center;
+    display: block; 
+} 
+
+title 
+{ 
+	padding-top: 10px;
+    font-size: 25px; 
+    font-weight: bold; 
+} 
+
+artist 
+{ 
+    font-size: 25px; 
+} 
+
+year
+{
+	padding-bottom: 10px;
+}
